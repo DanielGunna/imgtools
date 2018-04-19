@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImgTools.iml" filepath="$PROJECT_DIR$/ImgTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imgtools/imgtools.iml" filepath="$PROJECT_DIR$/imgtools/imgtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imgtools.iml" filepath="$PROJECT_DIR$/imgtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imgtools/imgtools-imgtools.iml" filepath="$PROJECT_DIR$/imgtools/imgtools-imgtools.iml" />
+    </modules>
+  </component>
+</project>
